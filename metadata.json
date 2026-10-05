@@ -1,0 +1,6 @@
+{
+  "name": "Global Engineer Pay & Interview Desk 2026",
+  "description": "Official 2026 engineer pay rate card, experience pay rules, instant offer calculator, and cross-country rate matrix across 47 countries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
